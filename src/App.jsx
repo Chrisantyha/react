@@ -13,6 +13,7 @@ function App() {
   const [ChangeBkG, setChangeBkG] = useState(getRandom(Bkgraunds))
 
 
+  
   const handleChangeQuote = ()=>{
     setQuote(getRandom(quotes))
     setChangeBkG(getRandom(Bkgraunds))
