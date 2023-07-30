@@ -7,7 +7,7 @@ const QuoteBox = ({handleChangeQuote, quote}) => {
         <h1 className="title">Knowing the universe</h1>
 
         <section>
-            <button onClick={handleChangeQuote}>boton a presionar</button>
+            <button onClick={handleChangeQuote}>Change the phrase and image </button>
             <article>
                 <p className="borderQuote">{quote.phrase}</p>
             </article>
