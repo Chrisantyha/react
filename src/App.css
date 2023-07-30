@@ -1,0 +1,30 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem; 
+  
+  text-align: center;
+  color: aquamarine;
+}
+.App{
+  min-height: 100vh; /* cubre App todo desde arriba hasta abajo de la pantalla*/
+  background-position: center; /* la imagen del backgraound va centrada*/
+  background-size: cover; /* no se deforma si la imagen debe estrecgarse o compactarse contain repite la imagen hasta cubiri toda el a´rea*/
+  
+}
+
+.borderQuote{
+  padding: 30px 30px;
+}
+.bg1 {
+  background-image: url("./images/space1.jpg");
+}
+.bg2 {
+  background-image: url("/images/space2.jpg");
+}
+.bg3 {
+  background-image: url("/images/space3.jpg");
+}
+.bg4 {
+  background-image: url("/images/space4.jpg");
+}

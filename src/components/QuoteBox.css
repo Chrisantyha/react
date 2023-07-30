@@ -1,0 +1,15 @@
+.title{
+    background-color: brown;
+}
+
+.quoteBox{
+    display: grid;
+    grid-template-rows: auto 1fr;  
+    /* me deja repartir los 2 elentos en forma vertical distibioda con 1fr  linea de arriba*/
+    min-height: 100vh;
+    place-items: center;
+    width: min(100%, 350);
+    padding: 20px 10px;
+    margin: auto 0;
+
+}
