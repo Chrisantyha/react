@@ -3,7 +3,7 @@
   margin: 0 auto;
   padding: 1rem; 
   text-align: center;
-  color: aquamarine;
+  color: rgb(20, 233, 162);
 }
 .App{
   min-height: 100vh; /* cubre App todo desde arriba hasta abajo de la pantalla*/

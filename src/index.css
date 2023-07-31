@@ -12,6 +12,9 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  font-family: 'Orbitron', sans-serif;
+  text-size-adjust: 1em;
+  font-size: larger;
 }
 
 h1{
